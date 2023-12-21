@@ -4,5 +4,5 @@ function submit() {
   // yes -> logic success
   // no -> invalid detail
 
-  alert("Login success manikanta!!!!!!!!");
+  alert("done by me");
 }
